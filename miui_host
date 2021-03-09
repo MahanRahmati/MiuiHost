@@ -167,6 +167,7 @@
 127.0.0.1 image.box.xiaomi.com
 127.0.0.1 image.cdn.mvideo.xiaomi.com
 127.0.0.1 image.pandora.xiaomi.com
+127.0.0.1 image.uc.cn
 127.0.0.1 ime.api.xiaomi.com
 127.0.0.1 img.cdn.mvideo.xiaomi.com
 127.0.0.1 imgg.traffic-media.co
@@ -176,6 +177,7 @@
 127.0.0.1 iosdl.game.xiaomi.com
 127.0.0.1 i.xiaomi.com
 127.0.0.1 jellyfish.pandora.xiaomi.com
+127.0.0.1 kv.cdn.pandora.xiaomi.com
 127.0.0.1 lbs.pandora.xiaomi.com
 127.0.0.1 lg-bgp.pandora.xiaomi.com
 127.0.0.1 log.ad.xiaomi.com
@@ -208,6 +210,7 @@
 127.0.0.1 mivideo.cdn.pandora.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 mp.huangye.miui.com
+127.0.0.1 mvfile.cdn.pandora.xiaomi.com
 127.0.0.1 m.zhuti.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
 127.0.0.1 nlp.ai.xiaomi.com
@@ -239,6 +242,7 @@
 127.0.0.1 risk.dun.mi.com
 127.0.0.1 r.sg.sec.miui.com
 127.0.0.1 ruac.account.xiaomi.com
+127.0.0.1 s2.starschina.com
 127.0.0.1 s72f5a8e.irs03.com
 127.0.0.1 sandbox.xmpush.xiaomi.com
 127.0.0.1 sdk.api.bjshcw.com
@@ -275,9 +279,12 @@
 127.0.0.1 t1.market.xiaomi.com
 127.0.0.1 t2.market.xiaomi.com
 127.0.0.1 t3.market.xiaomi.com
+127.0.0.1 t4.market.xiaomi.com
+127.0.0.1 t5.market.xiaomi.com
 127.0.0.1 t2.a.market.xiaomi.com
 127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 t4.a.market.xiaomi.com
+127.0.0.1 t5.a.market.xiaomi.com
 127.0.0.1 tc.hd.xiaomi.com
 127.0.0.1 tel.fe01.hh.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
