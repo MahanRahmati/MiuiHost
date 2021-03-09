@@ -123,7 +123,7 @@
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 d.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
-127.0.0.1 etl-xmlc-ssl.sandai.net
+127.0.0.1 etl-xlmc-ssl.sandai.net
 127.0.0.1 exp.api.xiaomi.com
 127.0.0.1 f1.g.mi.com
 127.0.0.1 f4.market.xiaomi.com
@@ -224,6 +224,8 @@
 127.0.0.1 ptmi.gitv.pandora.xiaomi.com
 127.0.0.1 pv.sohu.com
 127.0.0.1 qiye.xiaomi.com
+127.0.0.1 qsb.browser.miui.srv
+127.0.0.1 qsb.browser.miui.srv.domain.name
 127.0.0.1 query-suggestion.ai.xiaomi.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 reader.browser.miui.com
@@ -237,6 +239,7 @@
 127.0.0.1 risk.dun.mi.com
 127.0.0.1 r.sg.sec.miui.com
 127.0.0.1 ruac.account.xiaomi.com
+127.0.0.1 s72f5a8e.irs03.com
 127.0.0.1 sandbox.xmpush.xiaomi.com
 127.0.0.1 sdk.api.bjshcw.com
 127.0.0.1 sdk.irdatabase.com
@@ -271,7 +274,9 @@
 127.0.0.1 t1.g.mi.com
 127.0.0.1 t1.market.xiaomi.com
 127.0.0.1 t2.market.xiaomi.com
+127.0.0.1 t3.market.xiaomi.com
 127.0.0.1 t2.a.market.xiaomi.com
+127.0.0.1 t3.a.market.xiaomi.com
 127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 tc.hd.xiaomi.com
 127.0.0.1 tel.fe01.hh.xiaomi.com
