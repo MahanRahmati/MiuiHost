@@ -19,6 +19,8 @@
 127.0.0.1 42.62.94.93
 127.0.0.1 abtest.mistat.intl.xiaomi.com
 127.0.0.1 abtest.mistat.xiaomi.com
+127.0.0.1 access.speech.api.xiaomi.com
+127.0.0.1 account.ai.xiaomi.com
 127.0.0.1 account.jetbrains.com
 127.0.0.1 account.preview.n.xiaomi.net
 127.0.0.1 account.xiaomi.com
@@ -34,6 +36,7 @@
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.admob.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 api.ai.xiaomi.com
 127.0.0.1 api.chat.xiaomi.net
 127.0.0.1 api.comm.miui.com
 127.0.0.1 api.cupid.ptqy.gitv.tv
@@ -93,6 +96,7 @@
 127.0.0.1 chinaunicom.com
 127.0.0.1 c.id.mi.com
 127.0.0.1 clock.ad.xiaomi.com
+127.0.0.1 cloudcontrol.ai.xiaomi.com
 127.0.0.1 cnc.fe01.lg.xiaomi.com
 127.0.0.1 config.kuyun.com
 127.0.0.1 connect.rom.miui.com
@@ -113,6 +117,7 @@
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 d.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
+127.0.0.1 exp.api.xiaomi.com
 127.0.0.1 f1.g.mi.com
 127.0.0.1 f4.market.xiaomi.com
 127.0.0.1 fcanr.tracking.miui.com
@@ -192,6 +197,7 @@
 127.0.0.1 mp.huangye.miui.com
 127.0.0.1 m.zhuti.xiaomi.com
 127.0.0.1 new.api.ad.xiaomi.com
+127.0.0.1 nlp.ai.xiaomi.com
 127.0.0.1 notice.game.xiaomi.com
 127.0.0.1 o2o.api.xiaomi.com
 127.0.0.1 onebox.api.zhuti.n.xiaomi.com
@@ -204,12 +210,14 @@
 127.0.0.1 privacy.mi.com
 127.0.0.1 ptmi.gitv.pandora.xiaomi.com
 127.0.0.1 qiye.xiaomi.com
+127.0.0.1 query-suggestion.ai.xiaomi.com
 127.0.0.1 r.browser.miui.com
 127.0.0.1 reader.browser.miui.com
 127.0.0.1 register.xmpush.global.xiaomi.com
 127.0.0.1 register.xmpush.xiaomi.com
 127.0.0.1 relocationapi.micloud.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
+127.0.0.1 resolver.mi.xiaomi.com
 127.0.0.1 resolver.msg.global.xiaomi.net
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 r.sg.sec.miui.com
@@ -235,6 +243,7 @@
 127.0.0.1 static.mibi.xiaomi.com
 127.0.0.1 static.micloud.xiaomi.net
 127.0.0.1 stat.pandora.xiaomi.com
+127.0.0.1 statres.quickapp.cn
 127.0.0.1 stats.music.xiaomi.com
 127.0.0.1 statusapi.micloud.xiaomi.net
 127.0.0.1 stat.xiaomi.com
@@ -251,6 +260,7 @@
 127.0.0.1 test.xiaomi.com
 127.0.0.1 test.zeus.ad.xiaomi.com
 127.0.0.1 thm.market.xiaomi.com
+127.0.0.1 tracker.ai.xiaomi.com
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 trial.api.huangye.miui.com
