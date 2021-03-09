@@ -45,6 +45,7 @@
 127.0.0.1 api.io.mi.com
 127.0.0.1 api.micloud.xiaomi.net
 127.0.0.1 api.miui.security.xiaomi.com
+127.0.0.1 api.music.xiaomi.com
 127.0.0.1 api.ra2.xlmc.sec.miui.com
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.sec.miui.com
@@ -72,6 +73,8 @@
 127.0.0.1 awsusor0-cdn.fds-ssl.api.xiaomi.com
 127.0.0.1 bbs.game.xiaomi.com
 127.0.0.1 be01.hh.xiaomi.com
+127.0.0.1 bg0.market.xiaomi.com
+127.0.0.1 bg1.market.xiaomi.com
 127.0.0.1 bgp.fe01.c3.xiaomi.com
 127.0.0.1 bk01.hh.xiaomi.com
 127.0.0.1 blog.xiaomi.com
@@ -104,6 +107,7 @@
 127.0.0.1 dev.api.zhuti.n.xiaomi.com
 127.0.0.1 dev.market.n.xiaomi.com
 127.0.0.1 dev.staging.api.developer.n.xiaomi.com
+127.0.0.1 diagnosis.ad.xiaomi.com
 127.0.0.1 drm.market.xiaomi.com
 127.0.0.1 dvb.pandora.xiaomi.com
 127.0.0.1 d.xiaomi.com
@@ -114,10 +118,14 @@
 127.0.0.1 fe05.lg.xiaomi.com
 127.0.0.1 feedback.intl.miui.com
 127.0.0.1 feedback.miui.com
+127.0.0.1 ff0.market.xiaomi.com
+127.0.0.1 fga0.market.xiaomi.com
+127.0.0.1 fgc1.market.xiaomi.com
 127.0.0.1 file.market.xiaomi.com
 127.0.0.1 file.xmpush.xiaomi.com
 127.0.0.1 find.api.micloud.xiaomi.net
 127.0.0.1 flash.sec.intl.miui.com
+127.0.0.1 fm.music.xiaomi.com
 127.0.0.1 fr.app.chat.global.xiaomi.net
 127.0.0.1 fr-app-chat-global-xiaomi-net-1516654448.eu-central-1.elb.amazonaws.com
 127.0.0.1 gallery.cdn.pandora.xiaomi.com
@@ -127,7 +135,7 @@
 127.0.0.1 g.gabigmicloudprovider.lleryapi.micloud.xiaomi.net
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 global.market.xiaomi.com
-127.0.0.1 global.preview.app.market.pt.xiaomi.com
+127.0.0.1 global.preview.app.market.pt.xiaomicom
 127.0.0.1 global.search.xiaomi.net
 127.0.0.1 gvod.aiseejapp.atianqi.com
 127.0.0.1 hd02.lg.xiaomi.com
@@ -219,6 +227,7 @@
 127.0.0.1 static.game.xiaomi.com
 127.0.0.1 static.mibi.xiaomi.com
 127.0.0.1 stat.pandora.xiaomi.com
+127.0.0.1 stats.music.xiaomi.com
 127.0.0.1 statusapi.micloud.xiaomi.net
 127.0.0.1 stat.xiaomi.com
 127.0.0.1 storeconfig.mistat.intl.xiaomi.com
