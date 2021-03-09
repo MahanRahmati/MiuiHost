@@ -23,6 +23,7 @@
 127.0.0.1 account.preview.n.xiaomi.net
 127.0.0.1 account.xiaomi.com
 127.0.0.1 ad1.xiaomi.com
+127.0.0.1 adash.man.aliyuncs.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 ad.mi.com
 127.0.0.1 adv.sec.intl.miui.com
@@ -113,6 +114,7 @@
 127.0.0.1 d.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
 127.0.0.1 f1.g.mi.com
+127.0.0.1 f4.market.xiaomi.com
 127.0.0.1 fcanr.tracking.miui.com
 127.0.0.1 fe02.lg.xiaomi.com
 127.0.0.1 fe05.lg.xiaomi.com
@@ -120,6 +122,7 @@
 127.0.0.1 feedback.miui.com
 127.0.0.1 ff0.market.xiaomi.com
 127.0.0.1 fga0.market.xiaomi.com
+127.0.0.1 fgb0.market.xiaomi.com
 127.0.0.1 fgc1.market.xiaomi.com
 127.0.0.1 file.market.xiaomi.com
 127.0.0.1 file.xmpush.xiaomi.com
@@ -137,6 +140,7 @@
 127.0.0.1 global.market.xiaomi.com
 127.0.0.1 global.preview.app.market.pt.xiaomi.com
 127.0.0.1 global.search.xiaomi.net
+127.0.0.1 graph.facebook.com
 127.0.0.1 gvod.aiseejapp.atianqi.com
 127.0.0.1 hd02.lg.xiaomi.com
 127.0.0.1 hd.xiaomi.com
@@ -183,6 +187,7 @@
 127.0.0.1 mitunes.game.xiaomi.com
 127.0.0.1 miui.com
 127.0.0.1 miui.net
+127.0.0.1 mivideo.cdn.pandora.xiaomi.com
 127.0.0.1 mlog.search.xiaomi.net
 127.0.0.1 mp.huangye.miui.com
 127.0.0.1 m.zhuti.xiaomi.com
@@ -196,6 +201,7 @@
 127.0.0.1 phonecallapi.micloud.xiaomi.net
 127.0.0.1 pmall.migc.xiaomi.com
 127.0.0.1 ppurifier.game.xiaomi.com
+127.0.0.1 privacy.mi.com
 127.0.0.1 ptmi.gitv.pandora.xiaomi.com
 127.0.0.1 qiye.xiaomi.com
 127.0.0.1 r.browser.miui.com
@@ -214,6 +220,7 @@
 127.0.0.1 sec-cdn.static.xiaomi.net
 127.0.0.1 secode2.hd.xiaomi.com
 127.0.0.1 sec.resource.xiaomi.net
+127.0.0.1 sf0.market.xiaomi.com
 127.0.0.1 sfsapi.micloud.xiaomi.net
 127.0.0.1 sgpac.account.xiaomi.com
 127.0.0.1 shenghuo.xiaomi.com
@@ -226,12 +233,14 @@
 127.0.0.1 starfish.pandora.xiaomi.com
 127.0.0.1 static.game.xiaomi.com
 127.0.0.1 static.mibi.xiaomi.com
+127.0.0.1 static.micloud.xiaomi.net
 127.0.0.1 stat.pandora.xiaomi.com
 127.0.0.1 stats.music.xiaomi.com
 127.0.0.1 statusapi.micloud.xiaomi.net
 127.0.0.1 stat.xiaomi.com
 127.0.0.1 storeconfig.mistat.intl.xiaomi.com
 127.0.0.1 t1.g.mi.com
+127.0.0.1 t1.market.xiaomi.com
 127.0.0.1 t2.market.xiaomi.com
 127.0.0.1 tc.hd.xiaomi.com
 127.0.0.1 tel.fe01.hh.xiaomi.com
@@ -263,6 +272,7 @@
 127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 weather.pandora.xiaomi.com
 127.0.0.1 wifiapi.micloud.xiaomi.net
+127.0.0.1 www.baidu.com
 127.0.0.1 www.miui.com
 127.0.0.1 xiaomi.com
 127.0.0.1 xiaomi.net
