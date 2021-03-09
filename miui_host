@@ -31,6 +31,12 @@
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adv.sec.miui.com
 127.0.0.1 ad.xiaomi.com
+127.0.0.1 analytics1.starschina.com
+127.0.0.1 analytics1.starschina.com.domain.name
+127.0.0.1 analytics2.starschina.com
+127.0.0.1 analytics2.starschina.com.domain.name
+127.0.0.1 analytics3.starschina.com
+127.0.0.1 analytics3.starschina.com.domain.name
 127.0.0.1 api.account.preview.n.xiaomi.net
 127.0.0.1 api.account.xiaomi.com
 127.0.0.1 api.ad.intl.xiaomi.com
@@ -192,6 +198,9 @@
 127.0.0.1 meihua.xiaomi.com
 127.0.0.1 metok-ccc.intl.xiaomi.com
 127.0.0.1 metok.sys.miui.com
+127.0.0.1 miapiv1.starschina.com
+127.0.0.1 miapiv2.starschina.com
+127.0.0.1 miapiv3.starschina.com
 127.0.0.1 mibi.api.xiaomi.com
 127.0.0.1 mibi.xiaomi.com
 127.0.0.1 micardapi.micloud.xiaomi.net
@@ -219,6 +228,7 @@
 127.0.0.1 onebox.api.zhuti.n.xiaomi.com
 127.0.0.1 onebox.market.n.xiaomi.com
 127.0.0.1 order.music.xiaomi.com
+127.0.0.1 p2p-conf.starschina.com
 127.0.0.1 pdc.micloud.xiaomi.net
 127.0.0.1 phonecallapi.micloud.xiaomi.net
 127.0.0.1 pmall.migc.xiaomi.com
