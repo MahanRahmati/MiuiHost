@@ -47,6 +47,8 @@
 127.0.0.1 api.hybrid.intl.xiaomi.com
 127.0.0.1 api.hybrid.xiaomi.com
 127.0.0.1 api.io.mi.com
+127.0.0.1 api.jr.mi.com
+127.0.0.1 api.kingdata.ksyun.com
 127.0.0.1 api.micloud.xiaomi.net
 127.0.0.1 api.miui.security.xiaomi.com
 127.0.0.1 api.music.xiaomi.com
@@ -92,11 +94,13 @@
 127.0.0.1 cc.sys.intl.xiaomi.com
 127.0.0.1 cc.sys.miui.com
 127.0.0.1 cdn.ad.xiaomi.com
+127.0.0.1 cdn.cnbj1.fds.api.mi-img.com
 127.0.0.1 cdn.fds-ssl.api.xiaomi.com
 127.0.0.1 chinaunicom.com
 127.0.0.1 c.id.mi.com
 127.0.0.1 clock.ad.xiaomi.com
 127.0.0.1 cloudcontrol.ai.xiaomi.com
+127.0.0.1 cnbj1.fds.api.xiaomi.com
 127.0.0.1 cnc.fe01.lg.xiaomi.com
 127.0.0.1 config.kuyun.com
 127.0.0.1 connect.rom.miui.com
@@ -105,6 +109,7 @@
 127.0.0.1 ctc.fe01.c3.xiaomi.com
 127.0.0.1 ctc.fe02.c3.xiaomi.com
 127.0.0.1 data.game.xiaomi.com
+127.0.0.1 data.help.jr.mi.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 data.sec.miui.com
@@ -160,6 +165,7 @@
 127.0.0.1 image.cdn.mvideo.xiaomi.com
 127.0.0.1 image.pandora.xiaomi.com
 127.0.0.1 ime.api.xiaomi.com
+127.0.0.1 img.cdn.mvideo.xiaomi.com
 127.0.0.1 imgg.traffic-media.co
 127.0.0.1 i.mi.com
 127.0.0.1 info.analysis.kp.sec.miui.com
@@ -176,6 +182,7 @@
 127.0.0.1 market.xiaomi.com
 127.0.0.1 mazu.sec.miui.com
 127.0.0.1 m.bss.pandora.xiaomi.com
+127.0.0.1 m.video.9ddm.com
 127.0.0.1 mcc.intl.inf.miui.com
 127.0.0.1 meihua.xiaomi.com
 127.0.0.1 metok-ccc.intl.xiaomi.com
@@ -185,7 +192,9 @@
 127.0.0.1 micardapi.micloud.xiaomi.net
 127.0.0.1 micloud.xiaomi.net
 127.0.0.1 migrate.driveapi.micloud.xiaomi.net
+127.0.0.1 mihall.10046.mi.com
 127.0.0.1 milink.pandora.xiaomi.com
+127.0.0.1 miservice.comm.miui.com
 127.0.0.1 mishop.cdn.pandora.xiaomi.com
 127.0.0.1 mishop.pandora.xiaomi.com
 127.0.0.1 mis.migc.xiaomi.com
@@ -209,6 +218,7 @@
 127.0.0.1 ppurifier.game.xiaomi.com
 127.0.0.1 privacy.mi.com
 127.0.0.1 ptmi.gitv.pandora.xiaomi.com
+127.0.0.1 pv.sohu.com
 127.0.0.1 qiye.xiaomi.com
 127.0.0.1 query-suggestion.ai.xiaomi.com
 127.0.0.1 r.browser.miui.com
@@ -220,9 +230,11 @@
 127.0.0.1 resolver.mi.xiaomi.com
 127.0.0.1 resolver.msg.global.xiaomi.net
 127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 risk.dun.mi.com
 127.0.0.1 r.sg.sec.miui.com
 127.0.0.1 ruac.account.xiaomi.com
 127.0.0.1 sandbox.xmpush.xiaomi.com
+127.0.0.1 sdk.api.bjshcw.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdkconfig.ad.xiaomi.com
 127.0.0.1 sec-cdn.static.xiaomi.net
@@ -251,6 +263,8 @@
 127.0.0.1 t1.g.mi.com
 127.0.0.1 t1.market.xiaomi.com
 127.0.0.1 t2.market.xiaomi.com
+127.0.0.1 t2.a.market.xiaomi.com
+127.0.0.1 t4.a.market.xiaomi.com
 127.0.0.1 tc.hd.xiaomi.com
 127.0.0.1 tel.fe01.hh.xiaomi.com
 127.0.0.1 test.ad.xiaomi.com
