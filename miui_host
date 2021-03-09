@@ -253,7 +253,12 @@
 127.0.0.1 risk.dun.mi.com
 127.0.0.1 r.sg.sec.miui.com
 127.0.0.1 ruac.account.xiaomi.com
+127.0.0.1 s1.starschina.com
 127.0.0.1 s2.starschina.com
+127.0.0.1 s3.starschina.com
+127.0.0.1 s1.irs03.com
+127.0.0.1 s2.irs03.com
+127.0.0.1 s3.irs03.com
 127.0.0.1 s72f5a8e.irs03.com
 127.0.0.1 sandbox.xmpush.xiaomi.com
 127.0.0.1 sdk.api.bjshcw.com
@@ -272,6 +277,7 @@
 127.0.0.1 shoes.app-xae.xiaomi.com
 127.0.0.1 slb-p2p.vcloud.ks-live.com
 127.0.0.1 ssp.ad.xiaomi.com
+127.0.0.1 ssl-cdn.static.browser.mi-img.com
 127.0.0.1 staging.ai.api.xiaomi.com
 127.0.0.1 staging.api.zhuti.n.xiaomi.com
 127.0.0.1 staging.appapi.n.xiaomi.com
